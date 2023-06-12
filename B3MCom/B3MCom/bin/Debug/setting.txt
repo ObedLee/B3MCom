@@ -1,0 +1,2 @@
+PortName=COM3,
+BaudRate=19200

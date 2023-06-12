@@ -1,0 +1,11 @@
+C:\Users\dmz02\Desktop\이건우\프로그래밍\B3MCom\B3MCom\bin\Debug\B3MCom.exe.config
+C:\Users\dmz02\Desktop\이건우\프로그래밍\B3MCom\B3MCom\bin\Debug\B3MCom.exe
+C:\Users\dmz02\Desktop\이건우\프로그래밍\B3MCom\B3MCom\bin\Debug\B3MCom.pdb
+C:\Users\dmz02\Desktop\이건우\프로그래밍\B3MCom\B3MCom\obj\Debug\B3MCom.csproj.AssemblyReference.cache
+C:\Users\dmz02\Desktop\이건우\프로그래밍\B3MCom\B3MCom\obj\Debug\B3MCom.csproj.SuggestedBindingRedirects.cache
+C:\Users\dmz02\Desktop\이건우\프로그래밍\B3MCom\B3MCom\obj\Debug\B3MCom.Form1.resources
+C:\Users\dmz02\Desktop\이건우\프로그래밍\B3MCom\B3MCom\obj\Debug\B3MCom.Properties.Resources.resources
+C:\Users\dmz02\Desktop\이건우\프로그래밍\B3MCom\B3MCom\obj\Debug\B3MCom.csproj.GenerateResource.cache
+C:\Users\dmz02\Desktop\이건우\프로그래밍\B3MCom\B3MCom\obj\Debug\B3MCom.csproj.CoreCompileInputs.cache
+C:\Users\dmz02\Desktop\이건우\프로그래밍\B3MCom\B3MCom\obj\Debug\B3MCom.exe
+C:\Users\dmz02\Desktop\이건우\프로그래밍\B3MCom\B3MCom\obj\Debug\B3MCom.pdb
